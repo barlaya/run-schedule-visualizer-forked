@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "username": "janos_kovacs",
+    "projectAbbreviation": "UX-REDES",
+    "deadline": "2025-04-16T15:33:24.583Z",
+    "topsisScore": 0.85,
+    "department": "Infektologia",
+    "fileSize": 25.4,
+    "duration": 3
+  },
+  {
+    "id": "2",
+    "username": "sara_kovesi",
+    "projectAbbreviation": "API-INT",
+    "deadline": "2025-04-13T15:33:24.583Z",
+    "topsisScore": 0.76,
+    "department": "Finansz",
+    "fileSize": 12.7,
+    "duration": 4
+  },
+  {
+    "id": "3",
+    "username": "miklos_janosfi",
+    "projectAbbreviation": "ML-TRAIN",
+    "deadline": "2025-04-19T15:33:24.583Z",
+    "topsisScore": 0.92,
+    "department": "IT",
+    "fileSize": 75.1,
+    "duration": 5
+  },
+  {
+    "id": "4",
+    "username": "liza_wagner",
+    "projectAbbreviation": "FIN-REP",
+    "deadline": "2025-04-12T15:33:24.583Z",
+    "topsisScore": 0.68,
+    "department": "Finance",
+    "fileSize": 5.3,
+    "duration": 2
+  },
+  {
+    "id": "5",
+    "username": "sandor_barna",
+    "projectAbbreviation": "SEB-AUDIT",
+    "deadline": "2025-04-14T15:33:24.583Z",
+    "topsisScore": 0.88,
+    "department": "Sebeszet",
+    "fileSize": 18.9,
+    "duration": 3
+  },
+  {
+    "id": "6",
+    "username": "emma_deri",
+    "projectAbbreviation": "MKT-CAM",
+    "deadline": "2025-04-18T15:33:24.583Z",
+    "topsisScore": 0.72,
+    "department": "Modulacio",
+    "fileSize": 42.6,
+    "duration": 6
+  },
+  {
+    "id": "7",
+    "username": "roland_wilson",
+    "projectAbbreviation": "DEV-DASH",
+    "deadline": "2025-04-15T15:33:24.583Z",
+    "topsisScore": 0.81,
+    "department": "Mernoki",
+    "fileSize": 33.2,
+    "duration": 4
+  },
+  {
+    "id": "8",
+    "username": "olivia_kakuk",
+    "projectAbbreviation": "HR-TRAIN",
+    "deadline": "2025-04-20T15:33:24.583Z",
+    "topsisScore": 0.65,
+    "department": "HR",
+    "fileSize": 8.7,
+    "duration": 2
+  },
+  {
+    "id": "9",
+    "username": "jakob_tamasi",
+    "projectAbbreviation": "RAD-SUP",
+    "deadline": "2025-04-10T15:33:24.583Z",
+    "topsisScore": 0.9,
+    "department": "Radiologia",
+    "fileSize": 15.4,
+    "duration": 3
+  },
+  {
+    "id": "10",
+    "username": "bence_balazsi",
+    "projectAbbreviation": "PROJ-DEV",
+    "deadline": "2025-04-17T15:33:24.583Z",
+    "topsisScore": 0.78,
+    "department": "IT",
+    "fileSize": 22.8,
+    "duration": 5
+  },
+  {
+    "id": "11",
+    "topsisScore": 0.6234549064026005,
+    "username": "sacacascwasc",
+    "projectAbbreviation": "ascascas",
+    "deadline": "2025-04-01T22:00:00.000Z",
+    "department": "Design",
+    "fileSize": 0.3,
+    "duration": 3
+  },
+  {
+    "id": "12",
+    "topsisScore": 0.7956736821997276,
+    "username": "sacacascwasc",
+    "projectAbbreviation": "ascascas",
+    "deadline": "2025-04-01T22:00:00.000Z",
+    "department": "Design",
+    "fileSize": 0.3,
+    "duration": 3
+  },
+  {
+    "id": "13",
+    "topsisScore": 0.7457795078371465,
+    "username": "wasadvad",
+    "projectAbbreviation": "awdascas",
+    "deadline": "2025-04-07T22:00:00.000Z",
+    "department": "Marketing",
+    "fileSize": 0.5,
+    "duration": 7
+  },
+  {
+    "id": "14",
+    "topsisScore": 0.652149599989965,
+    "username": "awdasf",
+    "projectAbbreviation": "veafsda",
+    "deadline": "2025-04-07T22:00:00.000Z",
+    "department": "Data Science",
+    "fileSize": 5,
+    "duration": 7
+  }
+]

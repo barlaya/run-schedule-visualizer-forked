@@ -1,0 +1,12 @@
+{
+  "name": "anna-project",
+  "version": "1.0.0",
+  "scripts": {
+    "start-client": "npm run start --prefix client",
+    "start-server": "node server/server.js",
+    "start": "concurrently \"npm run start-client\" \"npm run start-server\""
+  },
+  "devDependencies": {
+    "concurrently": "^7.6.0"
+  }
+}

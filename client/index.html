@@ -1,0 +1,31 @@
+<!DOCTYPE html> 
+
+<html lang="en" class="dark">
+
+  <head>
+    <link rel="stylesheet" type="text/css" href="/src/index.css" />
+    <link rel="stylesheet" type="text/css" href="/src/App.css" />
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+
+    <title>GPU Hybrid TOPSIS EDF</title>
+    <script>
+      const applySystemTheme = () => {
+        const isDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        document.documentElement.classList.toggle('dark', isDark);
+      };
+
+      applySystemTheme();
+
+      window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', applySystemTheme);
+    </script>
+  </head>
+  <body> 
+
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script> 
+
+  </body> 
+
+</html> 
